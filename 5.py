@@ -5,3 +5,5 @@ for i in range(number, mnogenya, 7):
     i
 for s in range(1, 11, 1):
     print(f"{number} * {s} = {i}")
+    print(number)
+    print(mnogenya)
