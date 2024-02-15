@@ -1,0 +1,5 @@
+text = input("Ведіть текст: ")
+x = input("Ведіть букву, яку ви хочете знайти: ")
+i = text.find(f"{x}")
+print(i)
+print(x)
